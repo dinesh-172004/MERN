@@ -5,7 +5,6 @@ const Adminn=()=>{
     const navigate= useNavigate();
     const admin = JSON.parse(localStorage.getItem('admin'));
     if (!admin) {
-        // If no admin found in localStorage, redirect to login
         navigate('/')
     }
     return(
