@@ -1,5 +1,5 @@
 step 1: cloning the githubfile
-git clone https://github.com/dinesh-172004/MERN.git
+"git clone https://github.com/dinesh-172004/MERN.git"
 
 step 2:setting up backend
 create a database in mongodb compass and copy the connection string
